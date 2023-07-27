@@ -15,3 +15,4 @@ feat2 added
 added smth into master
 
 feat3 added
+fix bug in feat3
